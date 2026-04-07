@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "YAnalytics",
+    name: "CTAnalytics",
     platforms: [
         .iOS(.v14),
         .tvOS(.v14),
@@ -13,18 +13,18 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "YAnalytics",
-            targets: ["YAnalytics"]
+            name: "CTAnalytics",
+            targets: ["CTAnalytics"]
         )
     ],
     targets: [
         .target(
-            name: "YAnalytics",
+            name: "CTAnalytics",
             dependencies: []
         ),
         .testTarget(
-            name: "YAnalyticsTests",
-            dependencies: ["YAnalytics"]
+            name: "CTAnalyticsTests",
+            dependencies: ["CTAnalytics"]
         )
     ]
 )
