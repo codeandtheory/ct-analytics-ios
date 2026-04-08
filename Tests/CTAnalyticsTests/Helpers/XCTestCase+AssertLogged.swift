@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import YAnalytics
+@testable import CTAnalytics
 
 extension XCTestCase {
     func XCTAssertLogged(engine: AnalyticsEngine, data: MockAnalyticsData) {
