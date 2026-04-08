@@ -1,4 +1,4 @@
-![CT—Analytics](https://user-images.githubusercontent.com/1037520/214347556-2c63320d-e348-4fad-8762-6ff7d7a6b869.jpeg)
+![CTAnalytics](https://user-images.githubusercontent.com/1037520/214347556-2c63320d-e348-4fad-8762-6ff7d7a6b869.jpeg)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fyml-org%2Fyanalytics-ios%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/yml-org/yanalytics-ios) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fyml-org%2Fyanalytics-ios%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/yml-org/yanalytics-ios)   
 _An injectable analytics wrapper for Apple platforms._
 
@@ -6,7 +6,7 @@ This lightweight framework provides a generic wrapper for analytics SDK's that i
 
 Licensing
 ----------
-Y—Analytics is licensed under the [Apache 2.0 license](LICENSE).
+CTAnalytics is licensed under the [Apache 2.0 license](LICENSE).
 
 Documentation
 ----------
