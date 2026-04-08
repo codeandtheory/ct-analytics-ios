@@ -3,7 +3,6 @@
 //  CTAnalyticsTests
 //
 //  Created by Mark Pospesel on 7/20/21.
-//  Copyright © 2023 Y Media Labs. All rights reserved.
 //
 
 import Foundation

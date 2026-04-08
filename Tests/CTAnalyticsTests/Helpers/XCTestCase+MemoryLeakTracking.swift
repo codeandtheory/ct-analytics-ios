@@ -3,7 +3,6 @@
 //  CTAnalyticsTests
 //
 //  Created by Karthik K Manoj on 08/04/22.
-//  Copyright © 2023 Y Media Labs. All rights reserved.
 //
 
 import XCTest
