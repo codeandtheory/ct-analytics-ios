@@ -1,4 +1,3 @@
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fyml-org%2Fyanalytics-ios%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/yml-org/yanalytics-ios) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fyml-org%2Fyanalytics-ios%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/yml-org/yanalytics-ios)   
 _An injectable analytics wrapper for Apple platforms._
 
 This lightweight framework provides a generic wrapper for analytics SDK's that is suitable for Dependency Injection. Its objective is to avoid tightly coupling an application with a specific analytics provider.
@@ -61,7 +60,7 @@ Installation
 You can add Y—Analytics to an Xcode project by adding it as a package dependency.
 
 1. From the **File** menu, select **Add Packages...**
-2. Enter "[https://github.com/yml-org/yanalytics-ios](https://github.com/yml-org/yanalytics-ios)" into the package repository URL text field
+2. Enter "[https://github.com/codeandtheory/ct-analytics-ios](https://github.com/codeandtheory/ct-analytics-ios)" into the package repository URL text field
 3. Click **Add Package**
 
 Contributing to Y—Analytics
@@ -145,18 +144,3 @@ When merging a pull request:
 ### Releasing new versions
 * Tag the corresponding commit with the new version (e.g. `1.0.5`)
 * Push the local tag to remote
-
-Generating Documentation (via Jazzy)
-----------
-
-You can generate your own local set of documentation directly from the source code using the following command from Terminal:
-```
-jazzy
-```
-This generates a set of documentation under `/docs`. The default configuration is set in the default config file `.jazzy.yaml` file.
-
-To view additional documentation options type:
-```
-jazzy --help
-```
-A GitHub Action automatically runs each time a commit is pushed to `main` that runs Jazzy to generate the documentation for our GitHub page at: https://yml-org.github.io/yanalytics-ios/
