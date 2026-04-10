@@ -43,7 +43,7 @@ final class CountAnalyticsEngine {
 }
 
 extension CountAnalyticsEngine: AnalyticsEngine {
-    func track(event: YAnalytics.AnalyticsEvent) {
+    func track(event: CTAnalytics.AnalyticsEvent) {
         count += 1
     }
 }
