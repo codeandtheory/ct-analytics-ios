@@ -57,13 +57,13 @@ is a simple implementation of `AnalyticsEngine` that logs output using Apple's' 
 Installation
 ----------
 
-You can add Y—Analytics to an Xcode project by adding it as a package dependency.
+You can add CT—Analytics to an Xcode project by adding it as a package dependency.
 
 1. From the **File** menu, select **Add Packages...**
 2. Enter "[https://github.com/codeandtheory/ct-analytics-ios](https://github.com/codeandtheory/ct-analytics-ios)" into the package repository URL text field
 3. Click **Add Package**
 
-Contributing to Y—Analytics
+Contributing to CT—Analytics
 ----------
 
 ### Requirements
